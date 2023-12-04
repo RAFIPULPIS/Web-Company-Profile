@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:;
+  }
+  
+  header {
+    background-image: url(img/Nissan\ Skyline\ R34.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  section  {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .visi{
+    background-image: url(img/download\ \(14\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .misi{
+    background-image: url(img/download\ \(18\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;i
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
